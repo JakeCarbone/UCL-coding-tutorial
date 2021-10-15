@@ -123,5 +123,3 @@ Now lets start the tutorials:
 * [This Free interactive Python Scrimba course](https://scrimba.com/learn/python) - This is a free introductory Python course from Scrimba.
 
 * [First Python Notebook course](https://www.firstpythonnotebook.org/) - This is a free tutorial developed for journalists and makes an excellent next step following the completion of our tutorial.
-
-* The [InfluenceMap Data Visualization guide](https://git.influencemap.org/JakeCarbone/DV-guide) - This is a guide I made to making data visualizations covering both the theory behind good design and a guide to using Plotly in Python.
