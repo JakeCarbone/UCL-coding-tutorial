@@ -8,7 +8,7 @@ marp: true
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
-# **Coding & InfluenceMap**
+# **Coding and Climate Research**
 
 **An introduction to coding and how it is used at InfluenceMap**
 
@@ -26,7 +26,7 @@ However, the best way I have heard coding described is as "The language your com
 ## What makes code so powerful 
 
 
-Whilst the high evaluation of coding as a skill probably has a lot to do with who typically codes, there are some features inherent to coding that make it very powerful:
+There are some features inherent to coding that make it very powerful:
 
 * Code is reusable 
 * Code is easily replicable
@@ -40,7 +40,7 @@ Whilst the high evaluation of coding as a skill probably has a lot to do with wh
 
 * Python is one of the worlds most popular coding languages, it runs on all the major operating systems, has a relatively intuitive syntax for a coding language and has a huge amount of online support. 
 
-* This the language we will be working through later.
+* This is the language we will be working through later.
 
 * Python is server-side language, meaning you download it and run it on your computer.
 
@@ -70,7 +70,7 @@ Whilst the high evaluation of coding as a skill probably has a lot to do with wh
 
 * We like to use [Plotly](https://plotly.com/python/), which is a free package that allows you to easily make interactive graphs packed full of features.
 
-* We have also developed our [own modules](https://git.influencemap.org/JakeCarbone/IM-Plotly-Functions) that contain code for styling preparing the Plotly graphs.
+* We have also developed our [own modules](https://git.influencemap.org/JakeCarbone/IM-Plotly-Functions) that contain code for styling and preparing Plotly graphs.
 
 ---
 ## Python Uses
@@ -79,7 +79,7 @@ Whilst the high evaluation of coding as a skill probably has a lot to do with wh
 
 * Python is a great language for scraping. There are a whole host of Python packages out there to make scraping easier. Scrappers written in Python give InfluenceMap access to data we would overwise be unable to access.  
 
-* For example, we use Python to scrape government regulatory disclosure sites to find comments from companies and trade associations lobbying against policies.
+* For example, we use Python to scrape government regulatory disclosure sites. The data from these scrappers can then be searched to find comments from companies and trade associations on policies. 
 
 ---
 
@@ -87,14 +87,14 @@ Whilst the high evaluation of coding as a skill probably has a lot to do with wh
 
 #### 4) Websites
 
-* On at a high level, a website is run by some code on a server that will get requests from users, pull the relevant data from a database and send back a response.  
+* At a high level, a website is run by some code on a server that will get requests from users, pull the relevant data from a database and send back a response.  
 
 * Python's gluey nature makes it a great choice for making websites.
 
-* There are a number of Python modules that provide frameworks for building websites, like [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [Pelican](https://blog.getpelican.com/). At InfluenceMap we use a framework, custom made by Chris, called Evoke.
+* There are a number of Python modules that provide frameworks for building websites, like [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [Pelican](https://blog.getpelican.com/). InfluenceMap's website is built in Python.
 
 ---
-## Notes
+## Important information when learning to code
 
 * The logic behind coding can seem a little alien at first but don't let that deter you. It will come with time and once you are comfortable with one language it will really help you learn other languages.
 
@@ -113,8 +113,10 @@ Whilst the high evaluation of coding as a skill probably has a lot to do with wh
 ## Tutorials
 
 Now lets start the tutorials:
-1. [Introduction to Python Tutorial](Intro_to_Python_tutorial.md)
-2. [Python in Use Tutorial](Python_in_use.md)
+1. [Intro_to_Python_tutorial](Intro_to_Python_tutorial.ipynb) - This is the first tutorial and goes over the basics of using Python.
+
+2. [Python_in_use](Python_in_use.ipynb) - This is the second tutorial and walks you through using Python to scrape and analyse information from the web. 
+
 
 ---
 
@@ -123,3 +125,5 @@ Now lets start the tutorials:
 * [This Free interactive Python Scrimba course](https://scrimba.com/learn/python) - This is a free introductory Python course from Scrimba.
 
 * [First Python Notebook course](https://www.firstpythonnotebook.org/) - This is a free tutorial developed for journalists and makes an excellent next step following the completion of our tutorial.
+
+* Google/alternative search engine - When coding it is impossible to remember or know every function. Hence, it is common for coders to frequently be searching for the code functions they want to use. Modules will often come with detailed tutorials and documentation to help you understand how to use their code.
