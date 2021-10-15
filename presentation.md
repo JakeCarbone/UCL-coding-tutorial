@@ -70,7 +70,7 @@ There are some features inherent to coding that make it very powerful:
 
 * We like to use [Plotly](https://plotly.com/python/), which is a free package that allows you to easily make interactive graphs packed full of features.
 
-* We have also developed our [own modules](https://git.influencemap.org/JakeCarbone/IM-Plotly-Functions) that contain code for styling and preparing Plotly graphs.
+* We have also developed our own modules that contain code for styling and preparing Plotly graphs.
 
 ---
 ## Python Uses
