@@ -7,6 +7,6 @@ This is a repository containing the InfluenceMap Python introduction tutorial fo
 
 2. [Intro_to_Python_tutorial](Intro_to_Python_tutorial.ipynb) - This is the first tutorial and goes over the basics of using Python.
 
-3. [Python_in_use](Python_in_use) - This is the second tutorial and walks you through using Python to scrape and analyse information from the web. 
+3. [Python_in_use](Python_in_use.ipynb) - This is the second tutorial and walks you through using Python to scrape and analyse information from the web. 
 
 
