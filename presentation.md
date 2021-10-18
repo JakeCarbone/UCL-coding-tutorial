@@ -44,7 +44,7 @@ There are some features inherent to coding that make it very powerful:
 
 * Python is server-side language, meaning you download it and run it on your computer.
 
-* Due to it's ease of use, Python is often used to control other programming tools written in other languages. In this sense Python is sometimes described as a glue that holds more complex applications together.
+* Due to it's ease of use, Python is often used to control other programming tools written in other languages. In this sense Python is sometimes described as a glue that holds complex applications together.
 
 ---
 ## Python Uses
@@ -68,9 +68,9 @@ There are some features inherent to coding that make it very powerful:
 
 * There are a ton of packages in Python for making interactive graphs.
 
-* We like to use [Plotly](https://plotly.com/python/), which is a free package that allows you to easily make interactive graphs packed full of features.
+* We like to use [Plotly](https://plotly.com/python/), which is a free package that helps you make interactive graphs packed full of features.
 
-* We have also developed our own modules that contain code for styling and preparing Plotly graphs.
+* We have also used Python to develop our own modules that contain code for styling and preparing Plotly graphs.
 
 ---
 ## Python Uses
@@ -91,7 +91,7 @@ There are some features inherent to coding that make it very powerful:
 
 * Python's gluey nature makes it a great choice for making websites.
 
-* There are a number of Python modules that provide frameworks for building websites, like [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [Pelican](https://blog.getpelican.com/). InfluenceMap's website is built in Python.
+* There are a number of Python modules that provide frameworks for building websites, such as [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and [Pelican](https://blog.getpelican.com/). InfluenceMap's own website is built in Python.
 
 ---
 ## Important information when learning to code
